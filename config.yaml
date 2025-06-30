@@ -1,0 +1,7 @@
+scripts:
+  budgetOptimizerPath: "C:/Users/MM3815/Downloads/data_cleaning_app/Budgetoptimizer.R"
+  run_robyn: "C:/Users/MM3815/Downloads/data_cleaning_app/run_robyn.R"
+thresholds:
+  Rolling_Window: 7
+  Missing_Percentage: 25
+  Correlation_Percentage: 0.7
